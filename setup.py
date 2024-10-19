@@ -14,7 +14,7 @@ setup(
     description="My first package",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Airton2Junior/FirstPackage.git"
+    url="https://github.com/Airton2Junior/FirstPackage.git",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
