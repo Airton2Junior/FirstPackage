@@ -1,27 +1,27 @@
 # package_name
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+The package first_package_airton2junior is used to:
+	- soma
+	- subtracao
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install first_package_airton2junior
 
 ```bash
-pip install package_name
+pip install fist_package_airton2junior
 ```
 
 ## Usage
 
 ```python
-from package_name import file1_name
-file1_name.my_function()
+from fist_package import soma	
+soma.soma()
 ```
 
 ## Author
-My_name
+AIRTON JUNIOR
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
