@@ -1,4 +1,4 @@
-# package_name
+# first_package_airton2junior
 
 Description. 
 The package first_package_airton2junior is used to:
