@@ -16,7 +16,7 @@ pip install fist_package_airton2junior
 ## Usage
 
 ```python
-from fist_package import soma	
+from first_package import soma	
 soma.soma()
 ```
 

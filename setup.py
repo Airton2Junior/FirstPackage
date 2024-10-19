@@ -7,7 +7,7 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="first_package",
+    name="first_package_airton2junior",
     version="0.0.1",
     author="AIRTON JUNIOR",
     author_email="airton2junior@gmail.com",
